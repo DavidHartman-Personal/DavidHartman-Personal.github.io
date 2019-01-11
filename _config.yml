@@ -1,1 +1,13 @@
+title: Dave Hartman - Reference Information
+author: David Hartman
+email: david.j.hartman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a page for managing reference information/materials for Dave Hartman
+
+# social links
+twitter_username: IronmanDave
+github_username:  DavidHartman-Personal
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-slate
